@@ -73,7 +73,8 @@ Altough these parameteres resulted poor Strategy Returns than actual returns und
  |SVM Fine Tuned                                                   | LRM Fine Tuned                    |
  | -----------------------------------                             | ----------------------------------- |
  | ![image_7](svm1.png)                                            | ![image_8](lrm1.png) |
- 
+
+ With these parameters, model seems appropriate while comparing the cumulative product of startegy returns with actual returns. Also, accuracy score (SVM: 56%,  LRM 53%) is higher than all other options. 
 
 ## Conclusion:
 
